@@ -1,0 +1,7 @@
+# Python 3.9 or higher is required
+tensorflow
+transformers
+googletrans==4.0.0-rc1
+numpy
+speechrecognition
+opencv-python
